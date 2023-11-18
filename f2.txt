@@ -1,1 +1,2 @@
 Hello f2
+2nd Line added in f2.txt by master
